@@ -8,7 +8,7 @@
 
 과제의 내용은 아래 링크를 통해 커밋나우 홈페이지에서 확인할 수 있습니다.
 
-> [과제내용 보러가기](https://sandbox.commitnow.dev/assignment/복귀-유도-마케팅-효과-분석-JYN6s6Ns)
+> [과제내용 보러가기](https://commitnow.dev/assignment/복귀-유도-마케팅-효과-분석-JYN6s6Ns)
 
 과제의 설명과 요구사항을 잘 참고하여, 구현해 주세요.
 
